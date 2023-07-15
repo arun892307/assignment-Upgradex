@@ -2,7 +2,7 @@ import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:assignment_upgradex/home_page.dart';
+import 'package:assignment_upgradex/home_page_1.dart';
 import 'package:assignment_upgradex/HomeScreen_2dart';
 
 class Screen1 extends StatelessWidget {
